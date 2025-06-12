@@ -24,7 +24,7 @@ const Index = () => {
               <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-green-600 rounded-lg flex items-center justify-center">
                 <span className="text-white font-bold text-lg">MS</span>
               </div>
-              <span className="text-2xl font-bold text-gray-800">Marlal Safaris</span>
+              <span className="text-2xl font-bold text-gray-800">Maralal Safaris</span>
             </div>
             <nav className="hidden md:flex space-x-6">
               <a href="#features" className="text-gray-600 hover:text-blue-600 transition-colors">Features</a>
@@ -84,7 +84,7 @@ const Index = () => {
       <section id="features" className="py-20 px-4 bg-gradient-to-br from-blue-50 to-green-50">
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold text-gray-800 mb-4">Why Choose Marlal Safaris?</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">Why Choose Maralal Safaris?</h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
               Experience the difference with our premium services and adventure-first approach
             </p>
@@ -226,7 +226,7 @@ const Index = () => {
       {/* About Section */}
       <section id="about" className="py-20 px-4 bg-gradient-to-br from-blue-50 to-green-50">
         <div className="container mx-auto max-w-4xl text-center">
-          <h2 className="text-4xl font-bold text-gray-800 mb-8">About Marlal Safaris</h2>
+          <h2 className="text-4xl font-bold text-gray-800 mb-8">About Maralal Safaris</h2>
           <p className="text-lg text-gray-600 mb-8 leading-relaxed">
             Founded in 2010, Marlal Safaris has been the leading provider of adventure travel and safari experiences 
             in Northern Kenya. We're committed to providing safe, comfortable, and unforgettable journeys that connect 
@@ -273,7 +273,7 @@ const Index = () => {
                 </CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-600">info@marlalsafaris.co.ke</p>
+                <p className="text-gray-600">info@maralalsafaris.co.ke</p>
                 <p className="text-gray-600">Response within 1 hour</p>
               </CardContent>
             </Card>
