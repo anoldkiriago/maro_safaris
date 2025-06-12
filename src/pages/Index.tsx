@@ -305,7 +305,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-gradient-to-r from-blue-600 to-green-600 rounded-lg flex items-center justify-center">
                   <span className="text-white font-bold">MS</span>
                 </div>
-                <span className="text-xl font-bold">Marlal Safaris</span>
+                <span className="text-xl font-bold">Maralal Safaris</span>
               </div>
               <p className="text-gray-400">Exploring Northern Kenya, one adventure at a time.</p>
             </div>
@@ -339,7 +339,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gray-700 mt-8 pt-8 text-center">
-            <p className="text-gray-400">&copy; 2024 Marlal Safaris. All rights reserved.</p>
+            <p className="text-gray-400">&copy; 2024 Maralal Safaris. All rights reserved.</p>
           </div>
         </div>
       </footer>
